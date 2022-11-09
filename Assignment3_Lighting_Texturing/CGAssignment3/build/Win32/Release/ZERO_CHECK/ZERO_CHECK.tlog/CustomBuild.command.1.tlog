@@ -1,0 +1,10 @@
+^D:\CG\ASSIGNMENT3_LIGHTING_TEXTURING\CGASSIGNMENT3\BUILD\CMAKEFILES\727DF7FCD3BA5FB5DB8EC0553CBC5164\GENERATE.STAMP.RULE
+setlocal
+D:\bin\cmake.exe -SD:/cg/Assignment3_Lighting_Texturing/CGAssignment3 -BD:/cg/Assignment3_Lighting_Texturing/CGAssignment3/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/cg/Assignment3_Lighting_Texturing/CGAssignment3/build/CGAssignment3.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

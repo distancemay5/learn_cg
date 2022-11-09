@@ -1,0 +1,38 @@
+﻿  TRShadingPipeline.cpp
+D:\cg\Assignment3_Lighting_Texturing\CGAssignment3\src\TRShadingPipeline.cpp(22,45): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\cg\Assignment3_Lighting_Texturing\CGAssignment3\src\TRShadingPipeline.cpp(23,45): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\cg\Assignment3_Lighting_Texturing\CGAssignment3\src\TRShadingPipeline.cpp(42,53): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\cg\Assignment3_Lighting_Texturing\CGAssignment3\src\TRShadingPipeline.cpp(43,53): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\cg\Assignment3_Lighting_Texturing\CGAssignment3\src\TRShadingPipeline.cpp(213,39): warning C4018: “<=”: 有符号/无符号不匹配
+D:\cg\Assignment3_Lighting_Texturing\CGAssignment3\src\TRShadingPipeline.cpp(213,88): warning C4018: “<=”: 有符号/无符号不匹配
+D:\cg\Assignment3_Lighting_Texturing\CGAssignment3\src\TRShadingPipeline.cpp(237,39): warning C4018: “<”: 有符号/无符号不匹配
+D:\cg\Assignment3_Lighting_Texturing\CGAssignment3\src\TRShadingPipeline.cpp(237,87): warning C4018: “<”: 有符号/无符号不匹配
+D:\cg\Assignment3_Lighting_Texturing\CGAssignment3\src\TRShadingPipeline.cpp(267,26): warning C4018: “>=”: 有符号/无符号不匹配
+D:\cg\Assignment3_Lighting_Texturing\CGAssignment3\src\TRShadingPipeline.cpp(369,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  TRTexture2D.cpp
+  正在生成代码...
+  CGAssignment3.vcxproj -> D:\cg\Assignment3_Lighting_Texturing\CGAssignment3\build\Release\CGAssignment3.exe

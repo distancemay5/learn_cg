@@ -1,0 +1,3 @@
+D:/cg/Assignment3_Lighting_Texturing/CGAssignment3/build/CMakeFiles/CGAssignment3.dir
+D:/cg/Assignment3_Lighting_Texturing/CGAssignment3/build/CMakeFiles/ALL_BUILD.dir
+D:/cg/Assignment3_Lighting_Texturing/CGAssignment3/build/CMakeFiles/ZERO_CHECK.dir

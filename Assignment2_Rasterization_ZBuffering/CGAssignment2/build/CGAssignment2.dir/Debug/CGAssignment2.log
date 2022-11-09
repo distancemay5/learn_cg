@@ -1,0 +1,41 @@
+﻿  TRRenderer.cpp
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRRenderer.cpp(294,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRRenderer.cpp(297,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRRenderer.cpp(370,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  TRShaderPipeline.cpp
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(21,45): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(22,45): warning C4244: “=”: 从“float”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(39,53): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(40,53): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(200,72): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(211,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(211,49): warning C4018: “<”: 有符号/无符号不匹配
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(224,72): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(235,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRShaderPipeline.cpp(235,49): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  CGAssignment2.vcxproj -> D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\build\Debug\CGAssignment2.exe

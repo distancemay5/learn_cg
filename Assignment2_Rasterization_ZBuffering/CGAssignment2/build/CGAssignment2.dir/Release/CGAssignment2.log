@@ -1,0 +1,5 @@
+﻿  TRRenderer.cpp
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRRenderer.cpp(294,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRRenderer.cpp(297,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRRenderer.cpp(369,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  CGAssignment2.vcxproj -> D:\cg\Assignment2_Rasterization_ZBuffering\CGAssignment2\build\Release\CGAssignment2.exe
